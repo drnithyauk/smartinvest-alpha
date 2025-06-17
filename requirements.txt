@@ -1,4 +1,0 @@
-streamlit
-alpha_vantage
-pandas
-requests
